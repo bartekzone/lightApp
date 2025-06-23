@@ -17,6 +17,7 @@ lightApp/
 └── README.md # Dokumentacja projektu
 
 📋 Wymagania
+
 ✅ GCC (kompilator C)
 
 ✅ Make (system budowania)
