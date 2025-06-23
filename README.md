@@ -1,5 +1,5 @@
 Projekt **lightApp** to lekka aplikacja w języku C z kilkoma wartwami
-
+<pre lang="markdown"> <code> ``` 
 lightApp/
 ├── APP/ # Logika aplikacji (SWC)
 ├── BSW/ # Basic Software: np. GPIO, konfiguracja
@@ -14,7 +14,8 @@ lightApp/
 ├── Testing/ # Twoje testy (Unity i ręczne)
 ├── main.c # Główna aplikacja
 ├── Makefile # Skrypt budujący
-└── README.md # Dokumentacja projektu
+└── README.md # Dokumentacja projektu 
+``` </code> </pre>
 
 Wymagania
 
@@ -29,7 +30,6 @@ Wymagania
 - MSYS2 / Git Bash lub inny terminal dla Windows
 
 Jak uruchomić
-```bash kompilatora
 make app
 make test
 
