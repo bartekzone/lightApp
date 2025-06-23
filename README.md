@@ -16,22 +16,20 @@ lightApp/
 ├── Makefile # Skrypt budujący
 └── README.md # Dokumentacja projektu
 
-📋 Wymagania
+Wymagania
 
-✅ GCC (kompilator C)
+- GCC (kompilator C)
 
-✅ Make (system budowania)
+- Make (system budowania)
 
-✅ Git (do wersjonowania)
+- Git (do wersjonowania)
 
-✅ Ruby (jeśli chcesz korzystać z CMock – opcjonalnie)
+- Ruby (jeśli chcesz korzystać z CMock – opcjonalnie)
 
-✅ MSYS2 / Git Bash lub inny terminal dla Windows
+- MSYS2 / Git Bash lub inny terminal dla Windows
 
-## 🚀 Jak uruchomić
-
-### 🔨 Budowanie aplikacji
-```bash
+Jak uruchomić
+```bash kompilatora
 make app
 make test
 
