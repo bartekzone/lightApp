@@ -25,8 +25,6 @@ Wymagania
 
 - Git (do wersjonowania)
 
-- Ruby (jeśli chcesz korzystać z CMock – opcjonalnie)
-
 - MSYS2 / Git Bash lub inny terminal dla Windows
 
 Jak uruchomić
