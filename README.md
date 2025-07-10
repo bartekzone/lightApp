@@ -1,4 +1,13 @@
-Projekt **lightApp** to lekka aplikacja w języku C z kilkoma wartwami
+Projekt **lightApp** to aplikacja w języku C z kilkoma wartwami.
+
+Projekt zorganizowany jest w warstwy: MCAL, BSW, RTE, APP oraz ProjectConfig, aby zachować warstwowy układ architektury i umożliwić dalszy rozwój.
+
+Projekt powstał jako pomoc naukowa do kursu "C dla zaawasowanych" by UCEGOSU: https://cdlazaawansowanych.pl/
+
+Konfiguracje płytki zaczerpnięte z kursu youtube "STM32 na Resjestrach" by msalamon: https://www.youtube.com/@msalamon/playlists
+
+Koncepcja wartsw aplikacji na podstawie strony: https://yoginsavani.com/understanding-autosar-architecture-a-guide-to-automotive-software-integration/
+
 <pre lang="markdown"> <code> ``` 
 lightApp/
 ├── APP/ # Logika aplikacji (SWC)
